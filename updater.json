@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "5.8.3",
+    "versionCode": "129001001",
+    "link": "",
+    "note": "https://raw.githubusercontent.com/nathanchance/magisk-files/master/README.md"
+  },
+  "magisk": {
+    "version": "16.7",
+    "versionCode": "1671001",
+    "link": "",
+    "note": "https://raw.githubusercontent.com/nathanchance/magisk-files/master/README.md",
+    "md5": "078ed536c72641ba2fc28aa072293e29"
+  },
+  "uninstaller": {
+    "link": ""
+  },
+  "snet": {
+    "versionCode": "11",
+    "link": ""
+  }
+}

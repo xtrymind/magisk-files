@@ -4,7 +4,7 @@ Topjohnwu already have canary build [here](https://github.com/topjohnwu/magisk_f
 
 You can subscribe to them by adding
 
-[https://gitlab.com/xtrymind/magisk-files/raw/master/updater.json](https://gitlab.com/xtrymind/magisk-files/raw/master/updater.json)
+[https://raw.githubusercontent.com/xtrymind/magisk-files/master/updater.json](https://raw.githubusercontent.com/xtrymind/magisk-files/master/updater.json)
 
 as the custom update channel in Magisk settings. These are signed with my personal keystore so you will need to uninstall any versions of Magisk Manager you already have installed.
 

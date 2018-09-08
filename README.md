@@ -1,6 +1,6 @@
 # Magisk builds
 
-These are my personal Magisk builds (straight from topjohnwu's repo).
+Topjohnwu already have canary build [here](https://github.com/topjohnwu/magisk_files/tree/master/canary_builds) [https://github.com/topjohnwu/magisk_files/blob/master/canary_builds/canary.json](https://github.com/topjohnwu/magisk_files/blob/master/canary_builds/canary.json). These are my personal Magisk builds (straight from topjohnwu's repo) as backup for johnwu canary build in case it hasn't been updated or i need custom magisk build.
 
 You can subscribe to them by adding
 

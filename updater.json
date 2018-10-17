@@ -1,19 +1,19 @@
 {
   "app": {
-    "version": "6.0.0-ge8e39e0f",
-    "versionCode": "14914",
-    "link": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/MagiskManager-v6.0.0(14914)-ge8e39e0f.apk",
+    "version": "6.0.0-ge0e76747",
+    "versionCode": "15015",
+    "link": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/MagiskManager-v6.0.0(15015)-ge0e76747.apk",
     "note": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/README.md"
   },
   "magisk": {
-    "version": "17.3-ge8e39e0f",
-    "versionCode": "17314",
-    "link": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/Magisk-v17.3(17314)-ge8e39e0f.zip",
+    "version": "17.3-ge0e76747",
+    "versionCode": "17315",
+    "link": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/Magisk-v17.3(17315)-ge0e76747.zip",
     "note": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/README.md",
-    "md5": "ddf7d898c5a53646e8a6d5ca02b83d66"
+    "md5": "59048b09f0926584b7ade81918021502"
   },
   "uninstaller": {
-    "link": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/Magisk-uninstaller-ge8e39e0f.zip"
+    "link": "https://raw.githubusercontent.com/xtrymind/magisk-files/master/Magisk-uninstaller-ge0e76747.zip"
   },
   "snet": {
     "versionCode": "11",
